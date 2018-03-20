@@ -14,8 +14,8 @@
   "requiresCustomScript": false,
 
   "preconfiguredEntries": [{
-    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
-    "group": { "default": "Other" },
+    "groupId": "cf066440-0614-43d6-98ae-0b31cf14c7c3", // Other
+    "group": { "default": "Media and Content" },
     "title": { "default": "HeyFadda" },
     "description": { "default": "Hey Fadda Demo WebPart mit SPFramework" },
     "officeFabricIconFontName": "OfflineOneDriveParachute",
