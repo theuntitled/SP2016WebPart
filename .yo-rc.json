@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "hey-fadda",
+    "libraryId": "b954cea1-da9e-4a58-bc89-5a11644d2ba4",
+    "environment": "onprem"
+  }
+}

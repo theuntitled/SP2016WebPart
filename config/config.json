@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/heyFadda/HeyFaddaWebPart.js",
+      "manifest": "./src/webparts/heyFadda/HeyFaddaWebPart.manifest.json",
+      "outputPath": "./dist/hey-fadda-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "HeyFaddaWebPartStrings": "webparts/heyFadda/loc/{locale}.js"
+  },
+	"includeClientSideAssets": true
+}
